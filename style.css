@@ -1,3 +1,30 @@
 body {
-	background-color: yellow;
+	background: none;
+	/*background-image: url(horns.png);*/
 }
+
+.full {
+	background: url(http://wallpapercave.com/wp/F85GHXH.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.aboutme {
+	background-color: #fff;
+	word-wrap: normal;
+}
+
+
+h2 {
+	color: #fff;
+}
+
+
+
+.footer {
+	background-color: #fff;
+	text-align: center;
+}
+
