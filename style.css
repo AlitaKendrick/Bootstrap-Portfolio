@@ -11,18 +11,27 @@ body {
   background-size: cover;
 }
 
+/*Index page formatting*/
 .aboutme {
 	background-color: #fff;
 	word-wrap: normal;
 }
 
+/*Index page formatting*/
+.profimage {
+	float: left;
+	padding: 5px;
+}
 
+/*all h2 header formatting*/
 h2 {
 	color: #fff;
 }
 
 
 
+
+/*footer formatting*/
 .footer {
 	background-color: #fff;
 	text-align: center;
